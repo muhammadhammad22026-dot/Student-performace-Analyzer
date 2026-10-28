@@ -26,7 +26,7 @@ A Python-based data analysis project that evaluates student academic performance
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/student-performance-data-analyzer.git
+   git clone https://github.com/muhammadhammad22026-dot/student-performance-data-analyzer.git
    ```
 
 2. Navigate to the project folder:
